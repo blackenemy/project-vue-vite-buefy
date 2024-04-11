@@ -21,7 +21,7 @@
              <router-link class="navbar-item is-active" to="/about">About</router-link>
              <router-link class="navbar-item" to="/contact">Contact</router-link>
              <span class="navbar-item">
-               <a class="button is-primary is-inverted">
+               <a href="https://github.com/blackenemy/project-vue-vite-buefy.git" class="button is-primary is-inverted">
                  <span class="icon">
                    <i class="fab fa-github"></i>
                  </span>
